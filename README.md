@@ -64,5 +64,6 @@ The AI follows an intermediate approach:
 
 ## 👨‍💻 Author
 
-**Muhannad Majed**  
+- **Muhannad Majed**  
+  GitHub: [@iMD10](https://github.com/iMD10)
 
